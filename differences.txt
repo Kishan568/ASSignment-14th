@@ -1,0 +1,14 @@
+Bubble Sort
+
+1) The algorithm repeatedly steps through the list compare adjacent element and swap them if they are in wrong order.
+2) IT performs multiple passes throught the array.
+3)It is more suitable for small datasets or cases.
+
+timing- array 8 is  0.1942 milliseconds.
+
+
+Insertion sort
+1) Insertion sorts build the sorted sublist one element at a time.
+2) It is more suitable for small datasets
+
+timing-barray 8 is 0.2025 milliseconds.
